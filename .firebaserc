@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "optimal-mertie"
+  },
+  "targets": {
+    "optimal-mertie": {
+      "hosting": {
+        "optimal-metrie": [
+          "optimal-metrie"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
